@@ -5,7 +5,7 @@
 🎸  Avid Guitarist with a knack for fingerstyle.<br><br>
 🌎  Connect with me!! <br> [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prithkalai) 
 
-### 💻 Tech Stack
+## 💻 Tech Stack
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
@@ -21,7 +21,7 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
-### 🏁 Projects
+## 🏁 Projects
 #### Click on the images below to explore each project 😁
 <table style="width: 100%; table-layout: fixed;">
   <colgroup>
@@ -56,9 +56,10 @@
   </tr>
   <!-- New rows for Additional projects here -->
 </table>
+<br>
 
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Prithvi0709&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Prithvi0709&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
