@@ -1,8 +1,8 @@
 # ✨ Prithviraj K
-🏫  Im a graduate student at George Washington University.<br>
-🖥️  Im an aspiring Full Stack Developer focused on the MERN stack.<br>
+🏫  Graduate student at George Washington University.<br>
+🖥️  Aspiring Full Stack Developer focused on the MERN stack.<br>
 📊  Currently exploring the depths of Node.js and MongoDB.<br>
-🎸  Im also an avid fingerstyle guitarist.<br><br>
+🎸  Avid Guitarist with a knack for fingerstyle<br><br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prithkalai) 
 
 ### 💻 Tech Stack
