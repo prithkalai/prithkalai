@@ -22,6 +22,7 @@
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
 ### 🏁 Projects
+#### Click on the images below to explore each project 😁
 <table style="width: 100%; table-layout: fixed;">
   <colgroup>
     <col style="width: 50%"/>
