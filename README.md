@@ -33,10 +33,17 @@
     </td>
     <td align="center" valign="top">
       <a href="https://weathora.vercel.app">
-        <img src="weathora.jpg" alt="GameHub" width="500"/><br />
+        <img src="weathora.jpg" alt="Weathora" width="500"/><br />
         <h3>Weathora</h3> 
       </a>
       <span>A user-centric web app delivering accurate real-time climatic conditions.</span>
+    </td>
+     <td align="center" valign="top">
+      <a href="https://youtu.be/zZ8Cx4nzJHo">
+        <img src="flightscope.jpg" alt="Flight Scope Analytics" width="500"/><br />
+        <h3>Flight Scope Analytics</h3> 
+      </a>
+      <span>A secure web application created using React, Flask, and Python3 for explaining anomalies in real-time flight data.</span>
     </td>
     <!-- Repeat the <td> block for more projects -->
   </tr>
