@@ -22,34 +22,39 @@
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
 ### 🏁 Projects
-<table>
+<table style="width: 100%; table-layout: fixed;">
+  <colgroup>
+    <col style="width: 50%"/>
+    <col style="width: 50%"/>
+  </colgroup>
   <tr>
     <td align="center" valign="top">
       <a href="https://game-hub-bice-nu.vercel.app">
-        <img src="game-hub.jpg" alt="GameHub" width="500"/><br />
+        <img src="game-hub.jpg" alt="GameHub" style="width: 100%; max-width: 500px; height: auto;"/><br />
         <h3>GameHub</h3>
       </a>
       <span>A website serving as a comprehensive guide to over 5,000 latest games.</span>
     </td>
     <td align="center" valign="top">
       <a href="https://weathora.vercel.app">
-        <img src="weathora.jpg" alt="Weathora" width="500"/><br />
+        <img src="weathora.jpg" alt="Weathora" style="width: 100%; max-width: 500px; height: auto;"/><br />
         <h3>Weathora</h3> 
       </a>
       <span>A user-centric web app delivering accurate real-time climatic conditions.</span>
     </td>
-     <td align="center" valign="top">
+  </tr>
+  <tr>
+    <td align="center" valign="top">
       <a href="https://youtu.be/zZ8Cx4nzJHo">
-        <img src="flightscope.jpg" alt="Flight Scope Analytics" width="500"/><br />
-        <h3>Flight Scope Analytics</h3> 
+        <img src="flightscope.jpg" alt="FlightScope Analytics" style="width: 100%; max-width: 500px; height: auto;"/><br />
+        <h3>FlightScope Analytics</h3>
       </a>
       <span>A secure web application created using React, Flask, and Python3 for explaining anomalies in real-time flight data.</span>
     </td>
-    <!-- Repeat the <td> block for more projects -->
+    <!-- Additional projects in the same row -->
   </tr>
+  <!-- New rows for Additional projects here -->
 </table>
-
-
 
 
 ### 📊 GitHub Stats
