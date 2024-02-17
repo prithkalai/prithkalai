@@ -30,14 +30,14 @@
   </colgroup>
   <tr>
     <td align="center" valign="top">
-      <a href="https://game-hub-bice-nu.vercel.app">
+      <a href="https://game-hub-bice-nu.vercel.app" target="_blank">
         <img src="game-hub.jpg" alt="GameHub" style="width: 100%; max-width: 500px; height: auto;"/><br />
         <h3>GameHub</h3>
       </a>
       <span>A website serving as a comprehensive guide to over 5,000 latest games.</span>
     </td>
     <td align="center" valign="top">
-      <a href="https://weathora.vercel.app">
+      <a href="https://weathora.vercel.app" target="_blank">
         <img src="weathora.jpg" alt="Weathora" style="width: 100%; max-width: 500px; height: auto;"/><br />
         <h3>Weathora</h3> 
       </a>
@@ -46,7 +46,7 @@
   </tr>
   <tr>
     <td align="center" valign="top">
-      <a href="https://youtu.be/zZ8Cx4nzJHo">
+      <a href="https://youtu.be/zZ8Cx4nzJHo" target="_blank">
         <img src="flightscope.jpg" alt="FlightScope Analytics" style="width: 100%; max-width: 500px; height: auto;"/><br />
         <h3>FlightScope Analytics</h3>
       </a>
