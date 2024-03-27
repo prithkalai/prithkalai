@@ -52,6 +52,13 @@
       </a>
       <span>A secure web application created using React, Flask, and Python3 for explaining anomalies in real-time flight data.</span>
     </td>
+    <td align="center" valign="top">
+      <a href="https://prith-kalai.vercel.app" target="_blank">
+        <img src="flightscope.jpg" alt="Portfolio Website" style="width: 100%; max-width: 500px; height: auto;"/><br />
+        <h3>Portfolio Website</h3>
+      </a>
+      <span>A sleek, modern website designed using React and Tailwind CSS.</span>
+    </td>
     <!-- Additional projects in the same row -->
   </tr>
   <!-- New rows for Additional projects here -->
